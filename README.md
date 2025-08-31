@@ -1,4 +1,4 @@
-# Project 2: Boosting Trees
+# Project: Boosting Trees
 
 ---
 
@@ -286,12 +286,6 @@ While some of these fixes are incremental engineering tasks (feature subsampling
 
 ---
 
-## Contributors
-
-1) Vrushabh Shet (A20560742 - vshet@hawk.iit.edu)
-2) Vaishnav Avinash Bhujbal (A20579636 - vbhujbal@hawk.iit.edu)
-3) Siddharth Bhamare (A20582786 - sbhamare1@hawk.iit.edu)
-4) Yash Chaudhari (A20601946 - ychaudhari1@hawk.iit.edu)
 
 
 
